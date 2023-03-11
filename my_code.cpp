@@ -7,8 +7,8 @@ int main(){
 	std::cout<<"world"<<std::endl;
 	std::cout<<"world"<<std::endl;
 	std::cout<<"Hello world"<<std::endl;
-	std::cout<<"Hello world"<<std::endl;
-	std::cout<<"Hello world"<<std::endl;
+	std::cout<<"Hallo welt"<<std::endl;
+	std::cout<<"Hello world"<<std:endl;
 	std::cout<<"world"<<std::endl;
 	std::cout<<"Hello world"<<std::endl;
 	std::cout<<"world"<<std::endl;
